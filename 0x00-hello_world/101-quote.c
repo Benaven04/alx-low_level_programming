@@ -3,7 +3,7 @@
 /**
 * main - print the string in the put function
 *
-* Return: 0
+* Return: Always 1 (Successful)
 */
 int main(void)
 {
