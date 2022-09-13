@@ -1,9 +1,9 @@
 #include <unistd.h>
 
 /**
-* main - Prints a text
+* main - print the string in the put function
 *
-* Return: Always 1 (Success)
+* Return: 0
 */
 int main(void)
 {
